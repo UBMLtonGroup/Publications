@@ -1,0 +1,12 @@
+@inproceedings{rtmlton2015,
+   key = {rtmlton2015},
+   title = {Adding Real-time Capabilities to a SML Compiler},
+   booktitle = {DPRTCPS: The First Workshop on Declarative Programming for Real-Time and Cyber-Physical Systems},
+   series = {DPRTCPS '15},
+   year = {2015},
+   issn = {1551-3688},
+   pages = {1--6},
+   numpages = {6},
+   publisher = {ACM SIGBED},
+   address = {New York, NY, USA}
+}
