@@ -1,12 +1,20 @@
-@inproceedings{rtmlton2015,
-   key = {rtmlton2015},
-   title = {Adding Real-time Capabilities to a SML Compiler},
-   booktitle = {DPRTCPS: The First Workshop on Declarative Programming for Real-Time and Cyber-Physical Systems},
-   series = {DPRTCPS '15},
-   year = {2015},
-   issn = {1551-3688},
-   pages = {1--6},
-   numpages = {6},
-   publisher = {ACM SIGBED},
-   address = {New York, NY, USA}
-}
+@article{Li:2016:ARC:2930957.2930958,
+ author = {Li, Muyuan and McArdle, Daniel E. and Murphy, Jeffrey C. and Shivkumar, Bhargav and Ziarek, Lukasz},
+ title = {Adding Real-time Capabilities to a SML Compiler},
+ journal = {SIGBED Rev.},
+ issue_date = {April 2016},
+ volume = {13},
+ number = {2},
+ month = apr,
+ year = {2016},
+ issn = {1551-3688},
+ pages = {8--13},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/2930957.2930958},
+ doi = {10.1145/2930957.2930958},
+ acmid = {2930958},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
